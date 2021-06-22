@@ -6,7 +6,7 @@
   "setting": {
     "urlCheck": false,
     "es6": true,
-    "enhance": false,
+    "enhance": true,
     "postcss": true,
     "preloadBackgroundData": false,
     "minified": true,
@@ -30,7 +30,6 @@
       "outputPath": ""
     },
     "enableEngineNative": false,
-    "bundle": false,
     "useIsolateContext": true,
     "useCompilerModule": false,
     "userConfirmedUseCompilerModuleSwitch": false,
@@ -46,8 +45,8 @@
   },
   "compileType": "miniprogram",
   "libVersion": "2.12.0",
-  "appid": "wx972bf855b940a3c9",
-  "projectname": "%E6%99%BA%E8%83%BD%E8%B7%B3%E7%BB%B3",
+  "appid": "wx8d6fc20f3723f660",
+  "projectname": "minicode-2",
   "debugOptions": {
     "hidedInDevtools": []
   },
